@@ -1,0 +1,2 @@
+case_name,geojson_file,buffer_km,output_dir,prefix,dem_id,projection
+tutorial,geojson/tutorial.geojson,0,tutorial,tutorial,USGS/3DEP/10m,ESRI:102004

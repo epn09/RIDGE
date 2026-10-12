@@ -1,0 +1,26 @@
+name: ridge
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - earthengine-api
+  - pyproj
+  - numpy
+  - numba
+  - pip
+  - dask
+  - geopandas
+  - portalocker
+  - rioxarray
+  - shapely
+  - tqdm
+  - cython
+  - setuptools
+  - typed-argument-parser
+  - pymc
+  - numpyro
+  - sqlalchemy
+  - pip:
+      - tagee
