@@ -1,5 +1,7 @@
 # RIDGE
 
+[![DOI](https://zenodo.org/badge/1414969339.svg)](https://doi.org/10.5281/zenodo.23327904)
+
 ## Tutorial: Detecting levees with the RIDGE framework
 
 ### Step 0: Preparation
