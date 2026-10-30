@@ -37,4 +37,4 @@ python bayesian_inference.py
 The model parameters are saved to `model/model_params.nc`.
 
 ## References
-- Khanh, D. N., TBA
+- Khanh, D. N., Shiraishi, K., Yoshimura, Y., & Hirabayashi, Y. (2026). Line-Based Levee Detection: A New Generation of Levee Detection Methods Using Digital Elevation Models. *Earth and Space Science, 13*(11), e2026EA005231. <https://doi.org/10.1029/2026EA005231>
